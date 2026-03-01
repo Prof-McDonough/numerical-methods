@@ -3,6 +3,8 @@ Contains content for Phy 225 at Adelphi University.
 
 Students should fork their own copy of this repository and clone it to their local machine (or work on Codespaces).
 
+Note that exercises include ADVANCED MOVES that are more challenging and may require additional research or creativity. It is not necessary to complete all the advanced moves to get full credit on the assignment, but they are there for students who want to push themselves further.
+
 Assignments are organized by week in the `assignments` folder. 
 For week 6, students should complete `mooreslaw.ipynb` and sync it to their remote repository on GitHub.
 
